@@ -1,0 +1,3 @@
+The project consists of a quantitative portfolio analysis project applying Modern Portfolio Theory to six U.S. equities (AAPL, AMZN, META, GM, WMT, JPM) using daily price data from 2022 to 2024. 
+
+Starting from daily prices, log returns were computed and analysed through descriptive statistics and normality testing (Shapiro-Wilk). Assets were then evaluated under the Mean-Variance criterion and a utility function framework. Covariance structures were estimated and used to construct Minimum Variance Portfolios — both for two sub-frontiers and the full 6-asset universe, with and without correlations. Finally, the Tangency (maximum Sharpe ratio) portfolio was derived. For a full breakdown of results and findings, see Portfolio Choices Findings.

@@ -1,4 +1,4 @@
-#P2P Lending Logistic regression
+# P2P Lending Logistic regression
 
 The 'Optimizing Automated Credit Issuance: P2P Republic' initiative tackles non-performing loans by proposing an algorithm-driven underwriting framework. The focus lies on peer-to-peer lending, where abundant data enables the development of an automated credit assessment system. Rather than relying on subjective and time-consuming manual evaluations, the project employs a predictive scoring model to enhance default detection while preserving portfolio integrity. 
 
